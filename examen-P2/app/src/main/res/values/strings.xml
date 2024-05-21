@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">exam_jsolano4</string>
+    <string name="titulo_pagina_1">Gastos Comunes</string>
+    <string name="nombre_boton">Ingresar registro:</string>
+    <string name="titulo_pagina_2">Registro medidor</string>
+    <string name="MedidorDe">Medidor de:</string>
+    <string name="Medidor">Medidor:</string>
+    <string name="Fecha">Fecha</string>
+    <string name="Agua">agua</string>
+    <string name="Luz">luz</string>
+    <string name="Gas">gas</string>
+    <string name="Registrar_medicion">Registrar medición</string>
+</resources>

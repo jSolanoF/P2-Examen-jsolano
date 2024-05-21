@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">exam_jsolano4</string>
+    <string name="titulo_pagina_1">Common expenses</string>
+    <string name="MedidorDe">Meter of:</string>
+    <string name="Fecha">Date</string>
+    <string name="Registrar_medicion">Record</string>
+    <string name="titulo_pagina_2">Meter record</string>
+    <string name="nombre_boton">Enter registration</string>
+    <string name="Medidor">Measurer</string>
+    <string name="Luz">light</string>
+    <string name="Gas">gas</string>
+    <string name="Agua">water</string>
+</resources>
